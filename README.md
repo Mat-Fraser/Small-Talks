@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+
+# Small-Talks social meadia app
 
 First, run the development server:
 
@@ -22,14 +22,22 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+# Screen Shots 
+## Open page with previous post and comments. Click on JOIN NOW to sign in with google
+![1](https://user-images.githubusercontent.com/86045021/227626613-aeb0dc63-b092-411e-bf1f-18c99b2c0423.png)
 
-To learn more about Next.js, take a look at the following resources:
+## Sign in with google 
+![2](https://user-images.githubusercontent.com/86045021/227626832-7c98211d-3148-4593-945a-2f0d0cd154bc.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Create posts and submit it to post.
+![3](https://user-images.githubusercontent.com/86045021/227626976-cb374c36-809e-4827-8441-74f5d24b55b5.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## After creating the posts you can delete and edit you posts
+![4](https://user-images.githubusercontent.com/86045021/227627124-0291b652-8d2a-4b4f-9091-2cd1185015b8.png)
+
+## You can comment on other people posts on just click of a button.
+![5](https://user-images.githubusercontent.com/86045021/227627475-1aeab17a-aca9-4c8a-9d2a-ad28ae940da9.png)
+
 
 ## Deploy on Vercel
 
